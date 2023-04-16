@@ -6,4 +6,4 @@ The data comes from Stack Overflow Developer Survey 2020. The data is available 
 
 The app uses Streamlit to create the front-end and Scikit-learn to create the model.
 
-[![Dev build 3.10](https://github.com/emilio-gagliardi/salary-prediction/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/emilio-gagliardi/salary-prediction/actions/workflows/main.yml)
+[![Dev build 3.10](https://github.com/emilio-gagliardi/salary-prediction/actions/workflows/main.yml/badge.svg)](https://github.com/emilio-gagliardi/salary-prediction/actions/workflows/main.yml)
