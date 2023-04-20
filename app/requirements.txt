@@ -4,6 +4,7 @@ pandas
 matplotlib
 scikit-learn
 pytest
+pytest-cov
 pylint
 black
 nltk
