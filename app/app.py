@@ -2,13 +2,7 @@ import pandas as pd
 
 
 def hello_world():
-    df = pd.DataFrame([{"msg": "Hello World!"}])
-    return df["msg"][0]
-
-
-def goodbye_world():
-    df = pd.DataFrame([{"msg": "Goodbye World!"}])
-    return df["msg"][0]
+    return "Hello World!"
 
 
 if __name__ == "__main__":
