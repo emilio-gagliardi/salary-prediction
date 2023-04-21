@@ -3,13 +3,13 @@ install:
 		pip install -r requirements.txt
 
 lint:
-	pylint --disable=R,C /app/app.py
+	pylint --disable=R,C app/app.py
 
 format:
 	black *.py
 
 test:
-	python -m pytest -vv /tests/test_app.py
+	python -m pytest -vv tests/test_app.py
 
 deploy:
 	echo "Deploying app"
